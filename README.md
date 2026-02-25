@@ -5,5 +5,6 @@
   - [Virtual System And Networking Concepts Lab](https://github.com/edwardsrivas/VirtualSystemsAndNetworkingConceptsLAB)
 
 <h2>Networking Projects:</h2>
-- <b>Creatibf a Multi-Site Network using Static Routing & Centralized DCHP</b>
-  -[Enterprise Multi-Site Network with Static Routing & Centralized DHCP](https://github.com/edwardsrivas/Multi-Site-Enterprise-Network-Design-with-Subnetting-and-Centralized-DHCP)
+
+- <b>Creating Multi-Site Network using Static Routing & Centralized DCHP</b>
+  - [Enterprise Multi-Site Network with Static Routing & Centralized DHCP Lab](https://github.com/edwardsrivas/Multi-Site-Enterprise-Network-Design-with-Subnetting-and-Centralized-DHCP)
