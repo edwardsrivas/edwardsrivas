@@ -1,8 +1,8 @@
 <h1>Hi, I'm Edward! <br/><a href="https://www.linkedin.com/in/edwardsrivas/">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/edwardsrivas/">IT Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Use of Virtualization in Sandboxing Practice</b>
-  - [Virtual System And Networking Concepts Lab](https://github.com/edwardsrivas/VirtualSystemsAndNetworkingConceptsLAB)
+- [Vulnerability Management Program Implementation Lab](https://github.com/edwardsrivas/Vulnerability-Management-Program)
+- [Virtual System And Networking Concepts Lab](https://github.com/edwardsrivas/VirtualSystemsAndNetworkingConceptsLAB)
 
 <h2>🌐Networking Projects:</h2>
 
